@@ -1,0 +1,17 @@
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\Biscoito.Tests.deps.json
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\Biscoito.Tests.runtimeconfig.json
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\Biscoito.Tests.runtimeconfig.dev.json
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\Biscoito.Tests.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\Biscoito.Tests.pdb
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\Biscoito.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\bin\Debug\netcoreapp2.1\Biscoito.pdb
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\obj\Debug\netcoreapp2.1\Biscoito.Tests.csprojAssemblyReference.cache
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\obj\Debug\netcoreapp2.1\Biscoito.Tests.csproj.CoreCompileInputs.cache
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\obj\Debug\netcoreapp2.1\Biscoito.Tests.AssemblyInfoInputs.cache
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\obj\Debug\netcoreapp2.1\Biscoito.Tests.AssemblyInfo.cs
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\obj\Debug\netcoreapp2.1\Biscoito.Tests.csproj.CopyComplete
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\obj\Debug\netcoreapp2.1\Biscoito.Tests.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito.Tests\obj\Debug\netcoreapp2.1\Biscoito.Tests.pdb

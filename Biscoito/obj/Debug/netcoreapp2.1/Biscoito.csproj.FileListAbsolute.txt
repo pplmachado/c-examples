@@ -1,0 +1,11 @@
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\bin\Debug\netcoreapp2.1\Biscoito.deps.json
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\bin\Debug\netcoreapp2.1\Biscoito.runtimeconfig.json
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\bin\Debug\netcoreapp2.1\Biscoito.runtimeconfig.dev.json
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\bin\Debug\netcoreapp2.1\Biscoito.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\bin\Debug\netcoreapp2.1\Biscoito.pdb
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\obj\Debug\netcoreapp2.1\Biscoito.csprojAssemblyReference.cache
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\obj\Debug\netcoreapp2.1\Biscoito.csproj.CoreCompileInputs.cache
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\obj\Debug\netcoreapp2.1\Biscoito.AssemblyInfoInputs.cache
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\obj\Debug\netcoreapp2.1\Biscoito.AssemblyInfo.cs
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\obj\Debug\netcoreapp2.1\Biscoito.dll
+C:\Users\patricia.machado\source\repos\Biscoito\Biscoito\obj\Debug\netcoreapp2.1\Biscoito.pdb
